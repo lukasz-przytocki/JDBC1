@@ -1,0 +1,13 @@
+JDBC #1
+Treść zadania
+Ćwiczenia bazują na bazie danych world którą można pobrać na stronie: https://dev.mysql.com/doc/index-other.html
+Napisz program, który z tabeli city pobierze informację o polskich miastach i wyświetli je w konsoli jeden pod drugim
+Dodajfunkcjonalność, która wczyta od użytkownika kod kraju i na jego podstawie wyświetli wszystkie miasta z danego kraju pobrane z bazy danych.
+Napisz również funkcjonalność, która pobierze od użytkownika język i wyświetli wszystkie kraje w których on funkcjonuje, wraz z informacją o tym, czy język jest oficjalny oraz z procentem posługujących się nim osób.
+
+
+JDBC #2
+Treść zadania
+Napisz program, który na podstawie danych od użytkownika zaktualizuje rekordy w bazie danych.
+Wczytaj nazwę miasta, następnie nową liczbę ludności. Wykonaj na bazie danych zapytanie, które zaktualizuje liczbę ludności we wskazanym mieście.
+Wyświetl liczbę rekordów, która została zaktualizowana, następnie pobierz z bazy rekordy o wskazanej nazwie miasta i wyświetl je na ekranie w celu potwierdzenia aktualizacji.
